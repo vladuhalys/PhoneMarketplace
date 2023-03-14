@@ -19,4 +19,9 @@
       <Filter>internal</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="application.h">
+      <Filter>internal</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

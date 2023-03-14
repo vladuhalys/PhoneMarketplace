@@ -1,7 +1,7 @@
-#include <iostream>
-using namespace std;
+#include "application.h"
 
 int main()
 {
+
 	return 0;
 }
