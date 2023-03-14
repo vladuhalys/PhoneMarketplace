@@ -1,6 +1,9 @@
 //library
 #include <iostream>
 #include <Windows.h>
+#include <string>
+
+
 
 //namespaces
 using std::cout;

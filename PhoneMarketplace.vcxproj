@@ -20,9 +20,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="application\application.cpp" />
+    <ClCompile Include="presentation\screens\admin_screens\admin_screens.cpp" />
+    <ClCompile Include="presentation\screens\cliet_screens\client_screens.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="application\application.h" />
+    <ClInclude Include="presentation\screens\admin_screens\admin_screens.h" />
+    <ClInclude Include="presentation\screens\cliet_screens\client_screens.h" />
+    <ClInclude Include="presentation\screens\Screens.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
